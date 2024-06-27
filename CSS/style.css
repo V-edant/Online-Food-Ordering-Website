@@ -155,6 +155,7 @@
     opacity: 0.89;
     padding-bottom: 2645px;
     z-index: -1;
+    height: 2500px;
 }
 
 @media screen and (max-width: 768px) {
